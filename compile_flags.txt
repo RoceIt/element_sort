@@ -1,0 +1,9 @@
+-std=c++20
+-Wall
+-Weffc++
+-Wextra
+-Wsign-conversion
+-Wconversion
+-xc++
+-I
+/home/rolcam/.local/include

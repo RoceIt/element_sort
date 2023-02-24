@@ -1,0 +1,6 @@
+*.o
+*#
+/.vscode/
+/destroy_at_1
+/sorttreetest
+/sorttreetest2
